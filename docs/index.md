@@ -21,19 +21,20 @@ __Brigham Young University – Idaho__, Rexburg, ID
 `Major/Minor`
 __Bachelor of mathematic in Data Science/Economic__
 
-- 4.0 Major GPA
+`Academic Projects`
+- Kaggle/LOL Diamond Ranked Games (10 mins) – Used Python to analyze and understand winner and loser gaming behavior
+- Kaggle/17K Mobile Strategy Games – Used R to analyze modern mobile strategy game market for user behavior
+- CenterPoint/Financial & Competitive Analysis – Used Quantitative Method and SQL to help them understand their competitors
+- Deer Lake Girl’s Home/Home Expansion - Used Python to analyze Seattle area housing situation for their business expansion
+- Idaho Steel/Currency Exchange Forecast – Used Power BI and R to make live dashboard for Euro and USD currency exchange.
 
+## Experience
 
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2020 – September 2020`
+__The Church of Jesus Christ of Latter Day Saint - Operation Analyst__, Salt Lake City, UT
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- •	Enhanced a validator of Chinese family history record from multiple vendors resulting in increased quantity by 125% and decreased quality errors by 80%.
 
 ### Data Science Lead
 
