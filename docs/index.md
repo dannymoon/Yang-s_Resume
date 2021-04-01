@@ -29,21 +29,19 @@ __Bachelor of mathematic in Data Science/Economic__
 - Idaho Steel/Currency Exchange Forecast – Used Power BI and R to make live dashboard for Euro and USD currency exchange.
 
 ## Experience
-
+### Operation Analyst
 `January 2020 – September 2020`
-__The Church of Jesus Christ of Latter Day Saint - Operation Analyst__, Salt Lake City, UT
+__The Church of Jesus Christ of Latter Day Saint__, Salt Lake City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- •	Enhanced a validator of Chinese family history record from multiple vendors resulting in increased quantity by 125% and decreased quality errors by 80%.
+- Worked on novel methods for soil sampling to reduce laboratory measurements.
+- Enhanced a validator of Chinese family history record from multiple vendors resulting in increased quantity by 125% and decreased quality errors by 80%.
 
-### Data Science Lead
+### Research Analyst
+`September 2018 – December 2018`
+__Research & Business Development Center__, Rexburg, Idaho
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Analyzed and manipulated data using Microsoft Access queries and presented results by developing accurate and clearly understood charts, graphs and tables to enable clients to make precise and informed decisions.
+- Monitored current studies in the field to ensure that target market demographics were represented.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
