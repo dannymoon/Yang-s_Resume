@@ -6,9 +6,8 @@ title: David Yang's Resume
 
 
 <div id="webaddress">
-<a href="david840712@gmail.com">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="david840712@gmail.com">david840712@gmail.com</a>
+| <a href="https://www.linkedin.com/in/shih-wei-david-yang-a73826124/">LinkedIn: David Yang</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
