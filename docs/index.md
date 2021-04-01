@@ -18,8 +18,8 @@ title: David Yang's Resume
 `2016-2021`
 __Brigham Young University – Idaho__, Rexburg, ID
 
-`Expected 2021`
-__Brigham Young University - Idaho__, Rexburg, ID
+`Major/Minor`
+__Bachelor of mathematic in Data Science/Economic__
 
 - 4.0 Major GPA
 
