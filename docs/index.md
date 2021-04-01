@@ -8,19 +8,17 @@ title: David Yang's Resume
 <div id="webaddress">
 <a href="david840712@gmail.com">david840712@gmail.com</a>
 | <a href="https://www.linkedin.com/in/shih-wei-david-yang-a73826124/">LinkedIn: David Yang</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/hhhh840712">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2016-2021`
+__Brigham Young University – Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
