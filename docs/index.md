@@ -2,11 +2,11 @@
 layout: cv
 title: David Yang's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# David Yang
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="david840712@gmail.com">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
