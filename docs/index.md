@@ -50,20 +50,6 @@ __Blank Innovation Studio__, Kaohsiung city, Taiwan
 - Analyzed business model and performance using SWOT analysis and competitive research. The change increased individual department performance by 8 – 13%.
 - Coordinated and scheduled onboarding clients, working closely with 9 different department chairs on document and workflow analysis.
 
-#### New Shanghai Restaurant 
-
-`August 2013 – January 2014`
-__Store Manager__, Australia
-
-- Managed and trained 25 individuals in a restaurant with an average yearly revenue of 1.5 million AUD (1 million USD).
-- Used Excel to analyze customer/employee feedback to develop a new business practice (30% walks-ins and 70% reservations during the week instead of the previous 100% walk-ins) resulting in 20% increased revenue over a 6 month period.
-
-`October 2013 – January 2014`
-__Operations VP Assistant__, Australia
-
-- Oversaw operations of 7 different stores with an average yearly total revenue of 5.5 million AUD (3.7 million USD). 
-- Organized and participated in executive meetings and reported for the operations department.
-- Developed and researched an excel spreadsheet to improve process operation resulting in increases of annual total income by 15%, decreases in total spending by 10% and the reduction of numerical flaws by 34% in the operation department.
 
 ## Volunteer Work
 ### Recruitment Coordinator
@@ -72,8 +58,11 @@ __Brigham Young University-Idaho__, Rexburg, Idaho
 - Conducted meetings and participated in multiple “Get Connected” events for over 6,000 new students.
 
 `2014-2016`
-__Full-time Missionary__, Los AngelEs, CA
+__Full-time Missionary__, Los Angeles, CA
 
+## Work History
+`August 2013 - January 2014`
+__New Shanghai Restaurant__ Australia
 
 
 <!-- ### Footer
